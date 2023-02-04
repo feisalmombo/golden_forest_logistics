@@ -28,25 +28,20 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $usersCount = DB::select('SELECT COUNT(*) as "usersCount" FROM users');
+        // $usersCount = DB::select('SELECT COUNT(*) as "usersCount" FROM users');
 
-        $postsCount = DB::select('SELECT COUNT(*) as "postsCount" FROM blog_posts');
+        // $postsCount = DB::select('SELECT COUNT(*) as "postsCount" FROM blog_posts');
 
-        $categoriesCount = DB::select('SELECT COUNT(*) as "categoriesCount" FROM categories');
+        // $categoriesCount = DB::select('SELECT COUNT(*) as "categoriesCount" FROM categories');
 
-        $commentsCount = DB::select('SELECT COUNT(*) as "commentsCount" FROM contact_infos');
+        // $commentsCount = DB::select('SELECT COUNT(*) as "commentsCount" FROM contact_infos');
 
-        $subscribersCount = DB::select('SELECT COUNT(*) as "subscribersCount" FROM subscribers');
+        // $subscribersCount = DB::select('SELECT COUNT(*) as "subscribersCount" FROM subscribers');
 
 
 
         // return \json_encode($commentsCount);
 
-        return view('home')
-        ->with('usersCount', $usersCount)
-        ->with('postsCount', $postsCount)
-        ->with('categoriesCount', $categoriesCount)
-        ->with('commentsCount', $commentsCount)
-        ->with('subscribersCount', $subscribersCount);
+        return view('home');
     }
 }
