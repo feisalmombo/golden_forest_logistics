@@ -8,10 +8,10 @@
 		<title>Golden Forest Logistics Company Limited - Home</title>
         <link rel="dns-prefetch" href="//fonts.googleapis.com">
         <link rel="dns-prefetch" href="//s.w.org">
-                <script type="text/javascript">
+                {{--  <script type="text/javascript">
                     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/umojalogistics.co.rw\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.17"}};
                     !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-                </script>
+                </script>  --}}
 
                 <style type="text/css">
                     img.wp-smiley,
@@ -188,8 +188,8 @@
 			<header class="header" role="banner">
 				<div class="header__logo">
 					<a href="umojalogistics.co.html">
-												<img alt="Umoja Worldwide Logistics " data-srcset="https://umojalogistics.co.rw/wp-content/uploads/2019/07/UMOJA-13-header.png" width="218" height="67" data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/UMOJA-13-header.png" class="img-responsive lazyload" src="images/data:image-gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-											</a>
+                        <img alt="Umoja Worldwide Logistics " data-srcset="#" width="218" height="67" data-src="3" class="img-responsive lazyload" src="#">
+                    </a>
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cargopress-navbar-collapse">
 						<span class="navbar-toggle__text">MENU</span>
 						<span class="navbar-toggle__icon-bar">
@@ -574,30 +574,32 @@ Email: tkayiranga@umojalogistics.co.rw</p>
 				<div class="footer-top">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><img alt="" width="351" height="108" data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/UMOJA-foo.png" class="alignnone wp-image-786 lazyload" src="images/data:image-gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
-<p>&nbsp;</p>
-</div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">OUR SERVICES</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="services.html">All Services</a></li>
-<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="ground-transport.html">Land Freight Services</a></li>
-<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="cargo.html">Freight Services</a></li>
-<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="warehousing.html">Cargo Insurance</a></li>
-<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="storage.html">Customs Clearance Services</a></li>
-</ul></div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_black_studio_tinymce"><h6 class="footer-top__headings">Address</h6><div class="textwidget"><p>MIC Building, 1st Floor,<br>
-Kigali-Rwanda<br>
-P. O Box 3194<br>
-Mob: +250 7224455241<br>
-Email:&nbsp;<a href="mailto:info@umojalogistics.co.rw" target="_blank" rel="noopener">info@umojalogistics.co.rw</a></p>
-</div></div></div><div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><a class="icon-container  icon-container--square" href="https://fb.me/umojalogistics" target="_self"><span class="fa fa-facebook"></span></a>&nbsp; &nbsp;<a class="icon-container  icon-container--square" href="https://www.instagram.com/Umojalogistics/" target="_blank"><span class="fa fa-instagram"></span></a> <a class="icon-container  icon-container--square" href="https://www.linkedin.com/in/umoja-logistics-rwanda-11a20118a/" target="_blank"><span class="fa fa-linkedin"></span></a> <a class="icon-container  icon-container--square" href="http://Info_1148987" target="_blank"><span class="fa fa-skype"></span></a> <a class="btn    btn-primary" href="#" target="_blank">Contact Us Now</a></p>
-</div></div></div>				</div>
-			</div>
-		</div>
-				<div class="footer-bottom">
-			<div class="container">
-				<div class="footer-bottom__left">
-					Developed by  <a href="#">Elie_ihi</a>				</div>
-				<div class="footer-bottom__right">
-					Copyright &copy; 2022 Umoja Worldwide Logistics. All rights reserved.				</div>
-			</div>
-		</div>
+					<div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><img alt="" width="351" height="108" data-src="#" class="alignnone wp-image-786 lazyload" src="#"></p>
+        <p>&nbsp;</p>
+        </div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">OUR SERVICES</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="services.html">All Services</a></li>
+        <li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="ground-transport.html">Land Freight Services</a></li>
+        <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="cargo.html">Freight Services</a></li>
+        <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="warehousing.html">Cargo Insurance</a></li>
+        <li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="storage.html">Customs Clearance Services</a></li>
+        </ul></div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_black_studio_tinymce"><h6 class="footer-top__headings">Address</h6><div class="textwidget"><p>MIC Building, 1st Floor,<br>
+        Dar-Tanzania<br>
+        P. O Box 3194<br>
+        Mob: +255684456287<br>
+        Email:&nbsp;<a href="mailto:info@goldenforest.co.tz" target="_blank" rel="noopener">info@goldenforest.co.tz </a></p>
+        </div></div></div><div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><a class="icon-container  icon-container--square" href="" target="_self"><span class="fa fa-facebook"></span></a>&nbsp; &nbsp;<a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-instagram"></span></a> <a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-linkedin"></span></a> <a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-skype"></span></a> <a class="btn btn-primary" href="#" target="_blank">Contact Us Now</a></p>
+        </div></div></div>				</div>
+                    </div>
+                </div>
+                        <div class="footer-bottom">
+                    <div class="container">
+                        <div class="footer-bottom__left">
+                            Developed by  <a href="#">Feisal Suleiman Mombo</a>				
+                        </div>
+                        <div class="footer-bottom__right">
+                            Copyright &copy; 2022 Golden Forest Logistics. All rights reserved.				
+                        </div>
+                    </div>
+                </div>
 	</footer>
 	</div><!-- end of .boxed-container -->
 
@@ -608,14 +610,14 @@ Email:&nbsp;<a href="mailto:info@umojalogistics.co.rw" target="_blank" rel="noop
             <i class="qlwapp-close" data-action="close">&times;</i>
             <div class="qlwapp-description">
               <h3>Hello!</h3>
-<p>chat on WhatsApp or send us an email to <a href="mailto:info@umojalogistics.co.rw">info@umojalogistics.co.rw&nbsp;</a></p>
+<p>chat on WhatsApp or send us an email to <a href="mailto:info@goldenforest.co.tz">info@goldenforest.co.tz&nbsp;</a></p>
             </div>
           </div>
                 <div class="qlwapp-body">
-                      <a class="qlwapp-account" data-action="open" data-phone="+250783940444" data-message="Hello!" href="javascript:void(0);" target="_blank">
+                      <a class="qlwapp-account" data-action="open" data-phone="+255684456287" data-message="Hello!" href="javascript:void(0);" target="_blank">
                               <div class="qlwapp-avatar">
                   <div class="qlwapp-avatar-container">
-                    <img alt="Theoneste " data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/bossbusinesspeoplebusinessmanlawyerownerpersonicon-1320086651899415591.png" class="lazyload" src="images/data:image-gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                    <img alt="Theoneste " data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/bossbusinesspeoplebusinessmanlawyerownerpersonicon-1320086651899415591.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
                   </div>
                 </div>
                             <div class="qlwapp-info">
@@ -625,13 +627,13 @@ Email:&nbsp;<a href="mailto:info@umojalogistics.co.rw" target="_blank" rel="noop
             </a>
                   </div>
                   <div class="qlwapp-footer">
-            <p>Call us to <a href="tel://+2507224455241">+250 7224455241</a>&nbsp;from <em>0:00hs</em> a <em>24:00hs</em></p>
+            <p>Call us to <a href="tel://+255684456287">+255 684456287</a>&nbsp;from <em>0:00hs</em> a <em>24:00hs</em></p>
           </div>
               </div>
-        <a class="qlwapp-toggle" data-action="box" data-phone="+250724455241" data-message="Hello!" href="#" target="_blank">
+        <a class="qlwapp-toggle" data-action="box" data-phone="+255684456287" data-message="Hello!" href="#" target="_blank">
               <i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
             <i class="qlwapp-close" data-action="close">&times;</i>
-              <span class="qlwapp-text">Whatsapp Umoja Logistics</span>
+              <span class="qlwapp-text">Whatsapp Golden Forest Logistics</span>
           </a>
       </div>
 </div>
