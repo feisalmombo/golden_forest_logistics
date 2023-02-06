@@ -171,10 +171,11 @@
 					All about Logistics 				</div>
 				<!-- Top Menu -->
 				<nav class="top__menu" role="navigation" aria-label="Top Menu">
-					<ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar"><li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793"><a href="webmail.html">Webmail</a></li>
-<li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="about-us.html">About Us</a></li>
-<li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="contact-us.html">Contact Us</a></li>
-</ul>				</nav>
+					<ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar">
+                        <li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793">
+                <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="#">About Us</a></li>
+                <li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="#">Contact Us</a></li>
+                </ul>				</nav>
 			</div>
 		</div>
 
@@ -182,8 +183,8 @@
 		<div class="container">
 			<header class="header" role="banner">
 				<div class="header__logo">
-					<a href="umojalogistics.co.html">
-                        <img alt="Umoja Worldwide Logistics " data-srcset="#" width="218" height="67" data-src="3" class="img-responsive lazyload" src="#">
+					<a href="#">
+                        <img alt="Golden Forest Logistics" data-srcset="{{asset('gfl/images/gfl.png')}}" width="218" height="67" data-src="3" class="img-responsive lazyload" src="#">
                     </a>
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cargopress-navbar-collapse">
 						<span class="navbar-toggle__text">MENU</span>
@@ -196,7 +197,7 @@
 				</div>
 				<div class="header__navigation  js-sticky-offset">
 					<nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu" id="cargopress-navbar-collapse">
-						<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-12"><a href="umojalogistics.co.html">Home</a></li>
+						<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-12"><a href="#">Home</a></li>
 <li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="about-us.html">About Us</a></li>
 <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="services.html">Our Services</a>
 <ul class="sub-menu">
@@ -217,7 +218,7 @@
 
 		<i class="fa  fa-phone"></i>
 		<h4 class="icon-box__title">Call Us Anytime</h4>
-		<span class="icon-box__subtitle">+250 724455241 </span>
+		<span class="icon-box__subtitle">+255 624524149 </span>
 
 		</div>
 
@@ -227,7 +228,7 @@
 
 		<i class="fa  fa-clock-o"></i>
 		<h4 class="icon-box__title">Opening Time</h4>
-		<span class="icon-box__subtitle">08:00 - 18:00</span>
+		<span class="icon-box__subtitle">08:00 - 17:30</span>
 
 		</div>
 
@@ -237,20 +238,20 @@
 
 		<i class="fa  fa-envelope-o"></i>
 		<h4 class="icon-box__title">Email Us</h4>
-		<span class="icon-box__subtitle">info@umojalogistics.co.rw </span>
+		<span class="icon-box__subtitle">info@goldenforest.co.tz  </span>
 
 		</div>
 
-</div><div class="widget  widget_text">			<div class="textwidget"><a class="btn    btn-info" href="contact-us.html" target="_self" rel="noopener noreferrer">REQUEST A QUOTE</a>
+</div><div class="widget  widget_text">			<div class="textwidget"><a class="btn    btn-info" href="#" target="_self" rel="noopener noreferrer">REQUEST A QUOTE</a>
 </div>
 		</div>				</div>
 								<div class="header__navigation-widgets">
 					<div class="widget  widget-social-icons">
 
-		<a class="social-icons__link" href="https://fb.me/umojalogistics" target="_blank"><i class="fa  fa-facebook"></i></a>
-		<a class="social-icons__link" href="https://join.skype.com/invite/d94D41oPw74J" target="_blank"><i class="fa  fa-skype"></i></a>
-		<a class="social-icons__link" href="https://www.instagram.com/Umojalogistics/" target="_blank"><i class="fa  fa-instagram"></i></a>
-		<a class="social-icons__link" href="https://www.linkedin.com/in/umoja-logistics-rwanda-11a20118a/" target="_blank"><i class="fa  fa-linkedin"></i></a>
+		<a class="social-icons__link" href="#" target="_blank"><i class="fa  fa-facebook"></i></a>
+		<a class="social-icons__link" href="#" target="_blank"><i class="fa  fa-skype"></i></a>
+		<a class="social-icons__link" href="#" target="_blank"><i class="fa  fa-instagram"></i></a>
+		<a class="social-icons__link" href="#" target="_blank"><i class="fa  fa-linkedin"></i></a>
 
 </div>				</div>
 							</header>
@@ -265,7 +266,7 @@
 <ul>	<!-- SLIDE  -->
 	<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://umojalogistics.co.rw/wp-content/uploads/2019/07/image1sa-ok-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="{{asset('gfl/images/07-image1sa-ok.jpg')}}" alt="" title="image1sa ok" width="1920" height="672" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<img src="{{asset('gfl/images/truck.jpg')}}" alt="" title="image1sa ok" width="1920" height="672" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1 -->
@@ -307,7 +308,7 @@
 	<!-- SLIDE  -->
 	<li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://umojalogistics.co.rw/wp-content/uploads/2019/07/image1ate-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="{{asset('gfl/images/07-image1ate.jpg')}}" alt="" title="image1ate" width="1920" height="672" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<img src="{{asset('gfl/images/plane.jpg')}}" alt="" title="image1ate" width="1920" height="672" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 11 -->
