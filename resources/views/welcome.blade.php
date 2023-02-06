@@ -434,25 +434,33 @@ var revapi1,
 </script>
 		</div><!-- END REVOLUTION SLIDER -->
 </div>
-		</div></div></div></div><div id="pg-6-1" class="panel-grid panel-no-style"><div id="pgc-6-1-0" class="panel-grid-cell"><div id="panel-6-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1"><div class="widget-title--big panel-widget-style panel-widget-style-for-6-1-0-0"><h3 class="widget-title"><span class="widget-title__inline">OUR SERVICES</span></h3><div class="textwidget"></div></div></div></div></div><div id="pg-6-2" class="panel-grid panel-has-style"><div class="jumbotron-overlap panel-row-style panel-row-style-for-6-2"><div id="pgc-6-2-0" class="panel-grid-cell"><div id="panel-6-2-0-0" class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child" data-index="2">
+
+
+		</div></div></div></div><div id="pg-6-1" class="panel-grid panel-no-style"><div id="pgc-6-1-0" class="panel-grid-cell"><div id="panel-6-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1"><div class="widget-title--big panel-widget-style panel-widget-style-for-6-1-0-0">
+
+            <h3 class="widget-title"><span class="widget-title__inline">OUR SERVICES</span></h3>
+            <br>
+            <br>
+
+            <div class="textwidget"></div></div></div></div></div><div id="pg-6-2" class="panel-grid panel-has-style"><div class="jumbotron-overlap panel-row-style panel-row-style-for-6-2"><div id="pgc-6-2-0" class="panel-grid-cell"><div id="panel-6-2-0-0" class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child" data-index="2">
 
 	<div class="page-box  page-box--block">
-			<a class="page-box__picture" href="cargo.html"><img width="360" height="240" data-srcset="#" alt="Freight Services" data-src="#" data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)" class="wp-post-image lazyload" src="#"></a>
+			<a class="page-box__picture" href="cargo.html"><img width="360" height="240" data-srcset="{{asset('gfl/images/freight-services.jpg')}}" alt="Freight Services" data-src="#" data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)" class="wp-post-image lazyload" src="#"></a>
 		<div class="page-box__content">
 			<h5 class="page-box__title  text-uppercase"><a href="cargo.html">Freight Services</a></h5>
 			<p>Freight Services is a leading innovator in customer driven freight services. we successfully and creatively filled the need of a rapidly changing marketplace with a strategic focus to satisfy increasing customer requirements for premium transportation &hellip;</p>
-				<p><a href="cargo.html" class="read-more  read-more--page-box">Read more</a></p>
+				<p><a href="#" class="read-more  read-more--page-box">Read more</a></p>
 		</div>
 	</div>
 
 </div></div><div id="pgc-6-2-1" class="panel-grid-cell"><div id="panel-6-2-1-0" class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child" data-index="3">
 
 	<div class="page-box  page-box--block">
-			<a class="page-box__picture" href="ground-transport.html"><img width="360" height="240" data-srcset="#" alt="Land Freight Services" data-src="#" data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)" class="wp-post-image lazyload" src="#"></a>
+			<a class="page-box__picture" href="ground-transport.html"><img width="360" height="240" data-srcset="{{asset('gfl/images/land-services.jpg')}}" alt="Land Freight Services" data-src="#" data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)" class="wp-post-image lazyload" src="#"></a>
 		<div class="page-box__content">
 			<h5 class="page-box__title  text-uppercase"><a href="ground-transport.html">Land Freight Services</a></h5>
 			<p>Land freight involves the transportation of cargo by truck, trailers or rail between specified locations. Within the &lsquo;Intermodal&rsquo; or interconnected aspects of Land, Sea and Air transportation, Land freight is a vital link. FTL : Full &hellip;</p>
-				<p><a href="ground-transport.html" class="read-more  read-more--page-box">Read more</a></p>
+				<p><a href="#" class="read-more  read-more--page-box">Read more</a></p>
 		</div>
 	</div>
 
@@ -463,7 +471,7 @@ var revapi1,
 		<div class="page-box__content">
 			<h5 class="page-box__title  text-uppercase"><a href="storage.html">Customs Clearance Services</a></h5>
 			<p>Customs Clearance is offered as part of our own services. We additionally offer a Stand-Alone, full Customs Clearance &amp; Brokerage service for Importers, Exporters, Local and Overseas Cargo Agents. We do not need to carry your goods to clear &hellip;</p>
-				<p><a href="storage.html" class="read-more  read-more--page-box">Read more</a></p>
+				<p><a href="#" class="read-more  read-more--page-box">Read more</a></p>
 		</div>
 	</div>
 
