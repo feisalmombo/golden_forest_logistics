@@ -584,9 +584,9 @@ Email: tkayiranga@goldenforest.co.tz</p>  --}}
 				<div class="footer-top">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><img alt="" width="351" height="108" data-src="#" class="alignnone wp-image-786 lazyload" src="#"></p>
+					<div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><img alt="Golden Forest Logistics" width="351" height="108" data-src="#" class="alignnone wp-image-786 lazyload" src="#"></p>
         <p>&nbsp;</p>
-        </div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">OUR SERVICES</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="services.html">All Services</a></li>
+        </div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">Our Services</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="services.html">All Services</a></li>
         <li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="ground-transport.html">Land Freight Services</a></li>
         <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="cargo.html">Freight Services</a></li>
         <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="warehousing.html">Cargo Insurance</a></li>
@@ -620,7 +620,7 @@ Email: tkayiranga@goldenforest.co.tz</p>  --}}
             <i class="qlwapp-close" data-action="close">&times;</i>
             <div class="qlwapp-description">
               <h3>Hello!</h3>
-<p>chat on WhatsApp or send us an email to <a href="mailto:info@goldenforest.co.tz">info@goldenforest.co.tz&nbsp;</a></p>
+<p>chat on WhatsApp or send us an email to <a href="mailto:info@goldenforest.co.tz" style="text-decoration: none; color: white">info@goldenforest.co.tz&nbsp;</a></p>
             </div>
           </div>
                 <div class="qlwapp-body">
