@@ -547,23 +547,23 @@ Mob: +255 684 456287<br>
 Email:&nbsp;<a href="mailto:info@goldenforest.co.tz" target="_blank" rel="noopener noreferrer">info@goldenforest.co.tz </a></p>
 </div>
 		</div></div><div id="pgc-6-9-1" class="panel-grid-cell"><div id="panel-6-9-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="14"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sales inquiry<br>
-sales@umojalogistics.co.rw<br>
-Mobile: +250 780 437135</p>
-<p>Road Transport:<br>
-Email: operations@umojalogistics.co.rw</p>
-<p>&nbsp;</p>
+sales@goldenforest.co.tz<br>
+Mobile: +255 624 524149</p>
+{{--  <p>Road Transport:<br>
+Email: operations@goldenforest.co.tz</p>
+<p>&nbsp;</p>  --}}
 </div>
 		</div></div><div id="pgc-6-9-2" class="panel-grid-cell"><div id="panel-6-9-2-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="15"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sea freight:<br>
-Email: dar_ops@umojalogistics.co.rw</p>
-<p>Sea freight:<br>
-Email: dar_ops@umojalogistics.co.rw</p>
+Email: dar_ops@goldenforest.co.tz</p>
+{{--  <p>Sea freight:<br>
+Email: dar_ops@goldenforest.co.tz</p>  --}}
 </div>
 		</div></div><div id="pgc-6-9-3" class="panel-grid-cell"><div id="panel-6-9-3-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="16"><h3 class="widget-title"><span class="widget-title__inline">__________________</span></h3>			<div class="textwidget"><p>Sea freight:<br>
-Email: dar_ops@umojalogistics.co.rw</p>
-<p>Overseas:<br>
-Email: tkayiranga@umojalogistics.co.rw</p>
+Email: dar_ops@goldenforest.co.tz</p>
+{{--  <p>Overseas:<br>
+Email: tkayiranga@goldenforest.co.tz</p>  --}}
 </div>
-		</div></div></div><div id="pg-6-10" class="panel-grid panel-no-style"><div id="pgc-6-10-0" class="panel-grid-cell"><div id="panel-6-10-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="17"><h3 class="widget-title"><span class="widget-title__inline">Tanzania</span></h3>			<div class="textwidget"><p>Email:&nbsp;<a href="mailto:info@umojalogistics.co.rw" target="_blank" rel="noopener noreferrer">info@umojalogistics.co.rw</a></p>
+		</div></div></div><div id="pg-6-10" class="panel-grid panel-no-style"><div id="pgc-6-10-0" class="panel-grid-cell"><div id="panel-6-10-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="17"><h3 class="widget-title"><span class="widget-title__inline">Zambia</span></h3>			<div class="textwidget"><p>Email:&nbsp;<a href="mailto:info@goldenforest.co.tz" target="_blank" rel="noopener noreferrer">info@goldenforest.co.tz</a></p>
 </div>
 		</div></div><div id="pgc-6-10-1" class="panel-grid-cell"><div id="panel-6-10-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="18"><h3 class="widget-title"><span class="widget-title__inline">Kenya</span></h3>			<div class="textwidget"><p>Email: kenya_ops@umojalogistics.co.rw</p>
 </div>
